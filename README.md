@@ -1,4 +1,4 @@
-Unstop ML Hackathon 2025 | Team AVIS | Product Price Prediction | Rank 1.6K / 84K | SMAPE 51.4
+Unstop ML Hackathon 2025 | Team AVIS | Product Price Prediction | Rank 1693 |Total Registered:82,790 | SMAPE 51.4
 
 #  Amazon Machine Learning Hackathon 2025 — Product Price Prediction
 
@@ -6,7 +6,7 @@ This repository contains Team AVIS’s solution for the **Unstop ML Hackathon 20
 
 🏆 Team Name: AVIS
 📈 Final SMAPE: 51.4
-🥇 Leaderboard Rank: #1693 / 84,000 participants (Top 2%)
+🥇 Leaderboard Rank: #1693
 ⚙️ Frameworks: LightGBM + Sentence Transformers (MiniLM-L6-v2)
 🧠 Hardware: GPU-accelerated training on Google Colab
 
