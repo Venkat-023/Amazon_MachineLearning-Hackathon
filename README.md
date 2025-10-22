@@ -63,4 +63,4 @@ python inference_script.py --input test.csv --output predicted_prices.csv
 ✅ Preprocessed 95K+ records combining structured and unstructured data
 ✅ Generated 384-dimensional text embeddings using MiniLM
 ✅ Optimized LightGBM with GPU acceleration
-✅ Achieved SMAPE 51.4 — Top 2% out of 84,000 global participants
+✅ Achieved SMAPE 51.4 — Top 2% out of 82,790 global participants
