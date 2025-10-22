@@ -1,6 +1,8 @@
-🛒 Amazon Machine Learning Hackathon — Product Price Prediction
+Unstop ML Hackathon 2025 | Team AVIS | Product Price Prediction | Rank 1.6K / 84K | SMAPE 51.4
 
-This repository contains Team AVIS’s solution for the Amazon Machine Learning Hackathon 2025, where the task was to predict product prices based on structured and unstructured catalog data.
+#  Amazon Machine Learning Hackathon 2025 — Product Price Prediction
+
+This repository contains Team AVIS’s solution for the **Unstop ML Hackathon 2025**, where the task was to predict product prices from structured and unstructured catalog data.
 
 🏆 Team Name: AVIS
 📈 Final SMAPE: 51.4
