@@ -1,4 +1,4 @@
-Unstop ML Hackathon 2025 | Team AVIS | Product Price Prediction | Rank 1693 |Total Registered:82,790 | SMAPE 51.4
+Amazon ML Hackathon 2025 | Team AVIS | Product Price Prediction | Rank 1693 |Total Registered:82,790 | SMAPE 51.4
 
 #  Amazon Machine Learning Hackathon 2025 — Product Price Prediction
 
