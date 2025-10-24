@@ -35,7 +35,7 @@ Evaluation — SMAPE metric
 Metric	Score
 Validation SMAPE	47.43
 Public Leaderboard SMAPE	51.4
-Final Rank	#1693 / 84,000
+Final Rank	#1693 / 82,790
 🧩 Tech Stack
 
 🐍 Python 3.12
