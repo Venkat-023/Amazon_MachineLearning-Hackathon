@@ -10,7 +10,7 @@ This repository contains Team AVIS’s solution for the **Unstop ML Hackathon 20
 ⚙️ Frameworks: LightGBM + Sentence Transformers (MiniLM-L6-v2)
 🧠 Hardware: GPU-accelerated training on Google Colab
 
-🚀 Project Overview
+Project Overview
 
 The goal was to build a regression model that accurately predicts product prices using both structured features (brand, quantity, unit) and unstructured text (titles, bullet points, and product descriptions).
 
@@ -19,7 +19,7 @@ Text Encoder	SentenceTransformer – all-MiniLM-L6-v2
 Model	LightGBM (GPU, regression_l1 objective)
 Metric	SMAPE (Symmetric Mean Absolute Percentage Error)
 Optimization	Early stopping, feature scaling, lemmatization, unit normalization
-🧠 Model Architecture
+Model Architecture
 
 Text Cleaning — remove emojis, punctuation, and stopwords
 
@@ -58,7 +58,7 @@ python amazon_price_prediction.ipynb
 # 3️⃣ Predict on new data
 python inference_script.py --input test.csv --output predicted_prices.csv
 
-🌟 Highlights
+ Highlights
 
 ✅ Preprocessed 95K+ records combining structured and unstructured data
 ✅ Generated 384-dimensional text embeddings using MiniLM
